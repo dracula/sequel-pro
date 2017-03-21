@@ -13,7 +13,7 @@ All instructions can be found at [draculatheme.com/sequel-pro](https://draculath
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/sequel-pro/graphs/contributors).
 
 [![Florian Eckerstorfer](https://avatars1.githubusercontent.com/u/149201?v=3&s=70)](https://github.com/florianeckerstorfer) |
---- | ---
+--- |
 [Florian Eckerstorfer](https://github.com/florianeckerstorfer) |
 
 ## License

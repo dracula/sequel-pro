@@ -2,7 +2,7 @@
 
 > A dark theme for [Sequel Pro](http://sequelpro.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sequel-pro.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
